@@ -1,4 +1,9 @@
 # **C - Linked Lists**
+## Related topics in understanding linked lists
+1. Dynamic memory allocation and how to use malloc()
+2. Pointers
+3. Structure data types and how to access structure members using structure and pointer variables
+
 ##  Singly linked list
 > A list made up of nodes that consists of 2 parts
 1. Data
