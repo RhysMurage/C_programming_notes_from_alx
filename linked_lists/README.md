@@ -1,9 +1,10 @@
 # **C - Linked Lists**
 ##  Singly linked list
-> a list made up of nodes that consists of 2 parts
+> A list made up of nodes that consists of 2 parts
 1. Data
 2. Link
-> navigation is foward only
+> Navigation is foward only
+
 > We access the first node of the linked list with a pointer that contains the address of the first node
 
 ## Doubly linked list
